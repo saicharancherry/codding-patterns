@@ -1,0 +1,6 @@
+https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/
+Problems like this can be solved using both approaches
+i. Binary Search -> bisect_left & bisect_right
+ii. Sliding window
+
+Before solving problem the, we have to identify wheather solution is expected within a window of array or dynamic, after sorting.
